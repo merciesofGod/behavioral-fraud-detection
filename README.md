@@ -549,7 +549,7 @@ The complete analysis, including data preparation, EDA, modelling, threshold opt
 
 **Mercy Sunday**
 
-Data Scientist | Economics Graduate |
+Data Scientist | Economics Graduate
 
-Interested in using data, analytics, and technology to solve practical business and financial problems.
+Using data, analytics, and technology to solve practical business and financial problems.
 
